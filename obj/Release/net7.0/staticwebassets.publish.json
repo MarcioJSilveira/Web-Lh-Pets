@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "W0ueSok3JI4P8u1y2zASjpDvq0wMq1kt/ZqHaK2rzfI=",
+  "Source": "Web LH Pets",
+  "BasePath": "_content/Web LH Pets",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Web LH Pets\\wwwroot",
+      "Source": "Web LH Pets",
+      "ContentRoot": "C:\\Users\\T-Gamer\\Documents\\SENAI\\Web LH Pets\\wwwroot\\",
+      "BasePath": "_content/Web LH Pets",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\T-Gamer\\Documents\\SENAI\\Web LH Pets\\wwwroot\\index.html",
+      "SourceId": "Web LH Pets",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\T-Gamer\\Documents\\SENAI\\Web LH Pets\\wwwroot\\",
+      "BasePath": "_content/Web LH Pets",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    }
+  ]
+}
